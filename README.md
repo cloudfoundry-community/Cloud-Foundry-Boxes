@@ -57,7 +57,7 @@ This will create symlinks within `~/boxes` to the Vagrant boxes within your Drop
 
 ```
 $ ls -al ~/boxes  
-... cf-install-virtualbox.box -> /Users/drnic/Dropbox/Cloud Foundry Boxes/Rakefile/cf-install-virtualbox.box
-... ci_with_warden_prereqs.box -> /Users/drnic/Dropbox/Cloud Foundry Boxes/Rakefile/ci_with_warden_prereqs.box
+... cf-install-virtualbox.box -> /Users/drnic/Dropbox/Cloud Foundry Boxes/Rakefile/cf-install-virtualbox-20130626.box
+... ci_with_warden_prereqs.box -> /Users/drnic/Dropbox/Cloud Foundry Boxes/Rakefile/ci_with_warden_prereqs-20130626.box
 ```
 

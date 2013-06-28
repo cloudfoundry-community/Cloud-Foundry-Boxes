@@ -46,6 +46,10 @@ $ vagrant up
 
 You can either download the specific box that you need into `~/boxes`, or you can Share the Dropbox with yourself and have the boxes constantly updated as they change.
 
+Visit [Cloud Foundry Boxes](https://www.dropbox.com/sh/c71td6p4ffrt4uh/1oyn4vmVbD) and click "Downloads" and then "Add to my Dropbox" as below.
+
+<img src="assets/add-to-your-dropbox.png">
+
 To add symlinks into `~/boxes` you simply run the default rake task within the Dropbox:
 
 ```
